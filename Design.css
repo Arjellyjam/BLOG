@@ -1,5 +1,13 @@
 .row{
- display: flex;
- align-items: center;
- gap: 20p;
+ background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2dnLx2OBVEMOJhvOXSHbt3Piq-guy7EdUcQ&s');
+ background-size: cover;
+ background-position: bottom;
+ background-repeat: no-repeat;
+ height: 150px;
+ width: 100%;
+}
+
+.TOP {
+position: relative;
+top: 30px;
 }
